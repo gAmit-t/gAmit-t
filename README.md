@@ -1,3 +1,4 @@
+![logo](https://github.com/gAmit-t/gAmit-t/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Amitkumar M Gupta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
